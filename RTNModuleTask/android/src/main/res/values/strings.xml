@@ -1,0 +1,4 @@
+<resources>
+    <string name="channel_name">Example Service</string>
+    <string name="channel_description">Example Service Channel</string>
+</resources>
